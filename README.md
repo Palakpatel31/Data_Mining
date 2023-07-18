@@ -1,4 +1,4 @@
-# Data_Mining
+# Analyzing the Quality & Type of Wine (Data Mining)
 
 In the data mining project focused on analyzing the quality and type of wine, I undertook a comprehensive 
 analysis of the provided dataset. The dataset was divided into a training set and a test set, containing 
